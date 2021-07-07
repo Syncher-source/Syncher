@@ -1,5 +1,5 @@
 # Syncher Manifesto
-_Version: 1.2.2_
+_Version: 1.2.3_
 
 ----
 
@@ -16,8 +16,8 @@ Tools: The main tools used by a Syncher are: the english natural language as glo
 _The Derivations_
 
 
-Health: Syncher body and brain one and anything else but a machine. 
-For humans understanding genetics and its expression, epigenetics, has a very important role in preventing disfunctions, as also body interaction with gut microbiome and any other micro organisms getting in touch with the human body, ... study of human health, spread of its knowledge, delay and even eventually avoid aging, are considered top priority among others activities.
+Health: Syncher body and brain are one and anything else but a machine. 
+For humans understanding genetics and its expression, epigenetics, has a very important role in preventing disfunctions, as also body interaction with gut microbiome and any other micro organisms getting in touch with the human body, ... study of human health, spread of its knowledge, delay and even eventually avoid aging, are considered top priority among others activities. Refer to "The Demon in the Machine: How Hidden Webs of Information Are Finally Solving the Mystery of Life" by Paul Davies for more details about biology and computer science connections.
 
 Intelligence: Intelligence is defined formally by reinforcement learning, refer to David Silver publications and courses for all the details. 
 
